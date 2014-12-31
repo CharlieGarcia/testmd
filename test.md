@@ -1,4 +1,4 @@
-<link href="/test.css" rel="stylesheet"></link>
+(/test.css)
 Test
  <p style="color: red;">It works</p>
  <h2>Kevin Style</h2>
