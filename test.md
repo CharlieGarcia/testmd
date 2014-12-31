@@ -1,7 +1,10 @@
 ---
 title: "Habits"
 output:
-    css: test.css
+  html_document:
+    theme: null
+    highlight: null
+    css: styles.css
 ---
 Test
  It works{.test}
