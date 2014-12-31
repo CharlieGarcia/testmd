@@ -4,7 +4,7 @@ output:
     css: test.css
 ---
 Test
- <p>It works</p>{.test}
+ It works{.test}
   <h2>Kevin Style</h2>
 
  <blockquote>
