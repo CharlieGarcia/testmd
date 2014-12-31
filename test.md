@@ -1,9 +1,6 @@
 ---
 title: "Habits"
 output:
-  html_document:
-    theme: null
-    highlight: null
     css: test.css
 ---
 Test
