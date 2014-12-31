@@ -5,5 +5,5 @@
 	}
 </style>
 Test
- <p>It works</p>
+ <p style="color: red;">It works</p>
  <h2>Kevin Style</h2>
