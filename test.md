@@ -1,4 +1,11 @@
-(/test.css)
+---
+title: "Habits"
+output:
+  html_document:
+    theme: null
+    highlight: null
+    css: test.css
+---
 Test
  <p style="color: red;">It works</p>
  <h2>Kevin Style</h2>
