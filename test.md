@@ -7,6 +7,7 @@ output:
     css: styles.css
 ---
 Test
+<link rel="stylesheet" type="text/css" href="test.css">
  <p class="test">It works</p>
   <h2>Kevin Style</h2>
 	<img src="test.jpg">
