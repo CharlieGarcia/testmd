@@ -1,5 +1,16 @@
 Test
-<link rel="stylesheet" type="text/css" href="test.css"></link>
+<style>
+			body {
+				min-width: 200px;
+				max-width: 790px;
+				margin: 0 auto;
+				padding: 30px;
+			}
+          
+          	p {
+          		color: green;
+          }
+		</style>
  <p class="test">It works</p>
   <h2>Kevin Style</h2>
 	<img src="test.jpg">
