@@ -7,7 +7,7 @@ output:
     css: styles.css
 ---
 Test
- It works{.test}
+ <p class="test">It works</p>
   <h2>Kevin Style</h2>
 
  <blockquote>
